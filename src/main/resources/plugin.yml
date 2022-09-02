@@ -1,0 +1,15 @@
+name: IAmCheating
+version: '${project.version}'
+main: com.arr4nn.iamcheating.IAmCheating
+api-version: 1.15
+authors: [ ARR4NN ]
+description: IAmCheating plugin
+website: ARR4NN.com
+commands:
+  iamcheating:
+    aliases:
+      - icheating
+      - imcheating
+      - banme
+    description: idk mate
+    usage: /command
